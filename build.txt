@@ -1,0 +1,3 @@
+displayName = Alphanufactury
+author = Leapofod
+version = 0.1
